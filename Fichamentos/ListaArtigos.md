@@ -1,4 +1,4 @@
-* Yoon, Seung-Jo; Lanza, Michele; Zimmermann, Thomas. "Automated detection of password leakage from public GitHub repositories," in ACM Transactions on Software Engineering and Methodology, vol. 30, no. 3, pp. 1-25, Jun. 2021. doi: [10.1145/3510003.3510150](https://doi.org/10.1145/3510003.3510150)
+* Feng, R.; Yan, Z.; Peng, S.; Zhang, Y. "Automated Detection of Password Leakage from Public GitHub Repositories," in 44th International Conference on Software Engineering (ICSE), 2022. doi: [10.1145/3510003.3510150](https://doi.org/10.1145/3510003.3510150)
 
 * Russo, Matteo; Oliveto, Rocco; De Lucia, Andrea. "InspectJS: leveraging code similarity and user-feedback for effective taint specification inference for JavaScript," in ACM Transactions on Software Engineering and Methodology, vol. 30, no. 3, pp. 1-25, Jun. 2021. doi: [10.1145/3510457.3513048](https://doi.org/10.1145/3510457.3513048)
 
