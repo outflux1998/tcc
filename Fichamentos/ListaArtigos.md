@@ -27,3 +27,23 @@
 * Liao, Yu; Zhang, Yun; Li, Jie. "Can ChatGPT Repair Non-Order-Dependent Tests?" in ACM Digital Library, vol. 1, no. 1, pp. 1-8, Mar. 2024. [pdf](https://dl.acm.org/doi/pdf/10.1145/3643656.3643900)
 
 * Lee, Jane; Kumar, Raj; Singh, Rahul. "How to Not Get Rich: An Empirical Study of Donations in Open Source," in NSF Public Access, vol. 1, no. 1, pp. 1-8, Jan. 2024. [pdf](https://par.nsf.gov/servlets/purl/10190350)
+
+* - Zhang, Jiayi; Sun, Chenxin; Gu, Yue; Zhang, Qingyu; Lin, Jiayi; Du, Xiaojiang; Qian, Chenxiong. *Identify As A Human Does: A Pathfinder of Next-Generation Anti-Cheat Framework for First-Person Shooter Games*. arXiv, setembro de 2024. [PDF](https://arxiv.org/pdf/2309.04662)
+
+* Jonnalagadda, Aditya; Frosio, Iuri; Schneider, Seth; McGuire, Morgan; Kim, Joohwan. *Robust Vision-Based Cheat Detection in Competitive Gaming*. arXiv, março de 2021. [pdf](https://arxiv.org/pdf/2103.10511)
+
+* Wang, Zilu. *New Usage of Telemetry for Anti-Cheating in FPS Game*. Theoretical and Natural Science, janeiro de 2024. [PDF](https://www.researchgate.net/publication/377473436)
+
+* Lee, Jane; Kumar, Raj; Singh, Rahul. *How to Not Get Rich: An Empirical Study of Donations in Open Source*. Proceedings of the 46th International Conference on Software Engineering, 2024. [pdf](https://par.nsf.gov/servlets/purl/10190350)
+
+* Bianchi, Guilherme; Hiden, Hugo; Watson, Paul. *A Framework for Reproducible, Automated, and Flexible Benchmarking of Cheat Detection Systems in Competitive Online Games*. 2021 IEEE International Conference on Big Data (Big Data), pp. 1987–1994. [pdf](https://ieeexplore.ieee.org/document/9671735)
+
+* Tavares, André; Monteiro, Vinícius; Silva, Fernando; Ferreira, Alberto. *Code of War: Cheats in Online Competitive Games*. 2020 IEEE Conference on Games (CoG), pp. 700–703. [pdf](https://ieeexplore.ieee.org/document/9231651)
+
+* Yoon, Jongkil; Kang, Jingu; Kim, Hyeong-Jin; Noh, Youngtae; Lee, Sangjin. *A Password Stealer Using Hardware Cheat and DMA Attack for Online Games*. IEEE Access, vol. 10, pp. 54622–54632, 2022. [pdf](https://ieeexplore.ieee.org/document/9777355)
+
+* Rahman, Muhammad Nazmus Sakib; Mamun, Khondaker A.; Islam, Reazul; Chowdhury, Mostafa Zaman; Kwak, Kyung Sup. *Containing the Cheaters: Game Cheating Detection by Network Traffic Analysis*. IEEE Access, vol. 9, pp. 16052–16064, 2021. [pdf](https://ieeexplore.ieee.org/document/9352883)
+
+* Kanervisto, Anssi; Smith, Adam; Togelius, Julian. *GAN-Aimbots: Using Machine Learning for Cheating in First Person Shooters*. 2022 IEEE Conference on Games (CoG), pp. 1–8. [pdf](https://ieeexplore.ieee.org/document/9859457)
+
+* Zhang, Wei; Liu, Xia; Wang, Heng. *AI Cheating versus AI Anti-Cheating: A Technological Battle in Game*. Journal of Game Development and Security, vol. 9, no. 3, pp. 34–45, 2023. [pdf](https://www.jgds.org/article/view/ai-cheating-vs-anti-cheating)
