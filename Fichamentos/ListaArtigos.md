@@ -28,11 +28,11 @@
 
 * Lee, Jane; Kumar, Raj; Singh, Rahul. "How to Not Get Rich: An Empirical Study of Donations in Open Source," in NSF Public Access, vol. 1, no. 1, pp. 1-8, Jan. 2024. [pdf](https://par.nsf.gov/servlets/purl/10190350)
 
-* - Zhang, Jiayi; Sun, Chenxin; Gu, Yue; Zhang, Qingyu; Lin, Jiayi; Du, Xiaojiang; Qian, Chenxiong. *Identify As A Human Does: A Pathfinder of Next-Generation Anti-Cheat Framework for First-Person Shooter Games*. arXiv, setembro de 2024. [PDF](https://arxiv.org/pdf/2309.04662)
+* - Zhang, Jiayi; Sun, Chenxin; Gu, Yue; Zhang, Qingyu; Lin, Jiayi; Du, Xiaojiang; Qian, Chenxiong. *Identify As A Human Does: A Pathfinder of Next-Generation Anti-Cheat Framework for First-Person Shooter Games*. arXiv, setembro de 2024. [pdf](https://arxiv.org/pdf/2309.04662)
 
 * Jonnalagadda, Aditya; Frosio, Iuri; Schneider, Seth; McGuire, Morgan; Kim, Joohwan. *Robust Vision-Based Cheat Detection in Competitive Gaming*. arXiv, março de 2021. [pdf](https://arxiv.org/pdf/2103.10511)
 
-* Wang, Zilu. *New Usage of Telemetry for Anti-Cheating in FPS Game*. Theoretical and Natural Science, janeiro de 2024. [PDF](https://www.researchgate.net/publication/377473436)
+* Wang, Zilu. *New Usage of Telemetry for Anti-Cheating in FPS Game*. Theoretical and Natural Science, janeiro de 2024. [pdf](https://www.researchgate.net/publication/377473436)
 
 * Lee, Jane; Kumar, Raj; Singh, Rahul. *How to Not Get Rich: An Empirical Study of Donations in Open Source*. Proceedings of the 46th International Conference on Software Engineering, 2024. [pdf](https://par.nsf.gov/servlets/purl/10190350)
 
