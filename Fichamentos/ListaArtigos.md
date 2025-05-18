@@ -47,3 +47,5 @@
 * Kanervisto, Anssi; Smith, Adam; Togelius, Julian. *GAN-Aimbots: Using Machine Learning for Cheating in First Person Shooters*. 2022 IEEE Conference on Games (CoG), pp. 1–8. [pdf](https://ieeexplore.ieee.org/document/9859457)
 
 * Zhang, Wei; Liu, Xia; Wang, Heng. *AI Cheating versus AI Anti-Cheating: A Technological Battle in Game*. Journal of Game Development and Security, vol. 9, no. 3, pp. 34–45, 2023. [pdf](https://www.jgds.org/article/view/ai-cheating-vs-anti-cheating)
+
+* Karkallis e Blasco (2025) – VIC: Evasive Video Game Cheating via Virtual Machine Introspection. [pdf](https://arxiv.org/pdf/2502.12322)
